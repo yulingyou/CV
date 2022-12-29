@@ -47,15 +47,21 @@ _Insurance Sales_
 -What was the result? -->
 
 
-#### Interpersonal Skills
+#### Communication
+I have demonstrated my strong communication skills, both verbal and written, throughout my career. While working for Redford Education, my strength in communication has directly contributed to my ability to build and maintain my client base and work effectively within a dynamic team.
+<!-- 例子，alex家長跟法語老師一個多月了還沒約好課，安撫同理家長，仔細確認老師時間並跟進回覆，後來家長續了兩次課，目前課程都在持續中 -->
 
 <!-- - Experience
 - Achievements
 - Evidence (STAR) -->
 
-#### Microsoft Suite Skills
+#### Teamwork
+Team-player who can also work independently. During my time with the project 'flycat', I have work as a valuable team member, I was responsible for a variety of tasks including, creating the task timeline, scheduling and coordinating stand-up meeting, compile and distribute post-meeting reports. A great achievement was we managed to complete the project in five weeks, which was 1 weeks earlier than the estimated finish date.
 
+All of the skills I have gained whilst carrying out htis project, particulary teamwork, organisation and time management, can be readily applied to any role.
 
+#### Additional skills
+-Mandarin(native)
 <!-- Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
 
 - I achieved A during my work at B (job, or otherwise)
@@ -66,9 +72,7 @@ _Insurance Sales_
 ## Education
 
 #### Makers Academy (Nov 2022 to Feb 2023)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+- Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Sinatra, JavaScript

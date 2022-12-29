@@ -56,7 +56,7 @@ I have demonstrated my strong communication skills, both verbal and written, thr
 - Evidence (STAR) -->
 
 #### Teamwork
-Team-player who can also work independently. During my time with the project 'flycat', I have work as a valuable team member, I was responsible for a variety of tasks including, creating the task timeline, scheduling and coordinating stand-up meeting, compile and distribute post-meeting reports. A great achievement was we managed to complete the project in five weeks, which was 1 weeks earlier than the estimated finish date.
+I am a team-player who can also work independently. During my time with the project 'flycat', I have work as a valuable team member, I was responsible for a variety of tasks including, creating the task timeline, scheduling and coordinating stand-up meeting, compile and distribute post-meeting reports. A great achievement was we managed to complete the project in five weeks, which was 1 weeks earlier than the estimated finish date.
 
 All of the skills I have gained whilst carrying out htis project, particulary teamwork, organisation and time management, can be readily applied to any role.
 
@@ -72,7 +72,7 @@ All of the skills I have gained whilst carrying out htis project, particulary te
 ## Education
 
 #### Makers Academy (Nov 2022 to Feb 2023)
-- Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- Paring: Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Sinatra, JavaScript

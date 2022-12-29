@@ -1,5 +1,5 @@
 ## Yu-Ling You
-[Projects](#Projects) | [Work Experience](#Work) | [Skills](#Skills) | [Education](#Education) | [Hobbies and Interests](#Hobbies)
+[Projects](#Projects) | [Experience](#Experience) | [Skills](#Skills) | [Education](#Education) | [Hobbies and Interests](#Hobbies)
 
 I am a dedicated and hardworking person, and I demonstrated these traits while taking full-time classes for a coding academy this year and working part time as a executive assistant simultaneously. During that time, I managed multiple commitments but delivered and performed above my expectations. I want to use my skills and knowledge to make other people's jobs easier and more productive.
 
@@ -10,7 +10,7 @@ I am a dedicated and hardworking person, and I demonstrated these traits while t
 | **[Flycat](https://github.com/flycatcat/flycat)**            | A website to do HR manegerment | Reby on Rails, JavaScript, HTML, CSS, SQL |
 
 
-## Work Experience
+## Experience
 
 **Redford Education UK** (Aug 2022 to present)  
 _Executive Assistant_

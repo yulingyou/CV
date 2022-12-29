@@ -1,4 +1,5 @@
 ## Yu-Ling You
+[Projects](#Projects) | [Work Experience](#WorkExperience) | [Skills](#Skills) | [Education](#Education) | [Hobbies and Interests](#Hobbies)
 
 I am a dedicated and hardworking person, and I demonstrated these traits while taking full-time classes for a coding academy this year and working part time as a executive assistant simultaneously. During that time, I managed multiple commitments but delivered and performed above my expectations. I want to use my skills and knowledge to make other people's jobs easier and more productive.
 
@@ -70,8 +71,11 @@ _Insurance Sales_
 - you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Sinatra, JavaScript
 - RSpec, Jasmine
+
+#### ASTRO Camp (Mar 2022 to June 2022)
+- Ruby, Rails, JavaScript, CSS, HTML
 
 #### Fu Jen Catholic University (Sep 2006 to June 2010)
 

@@ -1,5 +1,5 @@
 ## Yu-Ling You
-[Projects](#Projects) | [Work Experience](#WorkExperience) | [Skills](#Skills) | [Education](#Education) | [Hobbies and Interests](#Hobbies)
+[Projects](#Projects) | [Work Experience](#Work_Experience) | [Skills](#Skills) | [Education](#Education) | [Hobbies and Interests](#Hobbies)
 
 I am a dedicated and hardworking person, and I demonstrated these traits while taking full-time classes for a coding academy this year and working part time as a executive assistant simultaneously. During that time, I managed multiple commitments but delivered and performed above my expectations. I want to use my skills and knowledge to make other people's jobs easier and more productive.
 

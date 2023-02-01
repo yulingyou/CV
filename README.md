@@ -8,7 +8,7 @@ I am a dedicated and hardworking person, and I demonstrated these traits while t
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[Flycat](https://github.com/flycatcat/flycat)**            | A website to do HR manegerment | Reby on Rails, JavaScript, HTML, CSS, SQL |
-
+| **[Bank_tech_test](https://github.com/yulingyou/Bank_tech_test_v2)**            | A simple project which printing account statement (date, amount, balance) with OO design and TDD skills | Reby, RSpec |
 
 ## Experience
 

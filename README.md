@@ -87,10 +87,6 @@ All of the skills I have gained whilst carrying out htis project, particulary te
 - 2010 YOUNG DESIGNERS' COMPETITION - Bronze Award
 - 2007 YOUNG TIMES AWARDS - Honorable Mention
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
 ## Hobbies
 
 Hiking, World traveler, Yoga, Cycling, Cooking

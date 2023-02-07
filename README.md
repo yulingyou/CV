@@ -16,7 +16,7 @@ I am a dedicated and hardworking person, and I demonstrated these traits while t
 _Executive Assistant_
 
 - Course facilitating tasks.
-- Liaison with customers and tutors, arrange the slot for two side, maintan a good rate (over 85%) of course continuation.
+- Liaison with customers and tutors, arrange the slot for two side, maintain a good rate (over 85%) of course continuation.
 - Office administrative tasks.
 
 **Macaron Box TW** (Dec 2020 to Mar 2022)  
@@ -76,7 +76,9 @@ All of the skills I have gained whilst carrying out htis project, particulary te
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Sinatra, JavaScript
-- RSpec, Jasmine
+- RSpec
+- MERN, Cypress
+- Taildwind CSS
 
 #### ASTRO Camp (Mar 2022 to June 2022)
 - Ruby, Rails, JavaScript, CSS, HTML

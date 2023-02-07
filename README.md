@@ -78,7 +78,7 @@ All of the skills I have gained whilst carrying out htis project, particulary te
 - Ruby, Sinatra, JavaScript
 - RSpec
 - MERN, Cypress
-- Taildwind CSS
+- Tailwind CSS
 
 #### ASTRO Camp (Mar 2022 to June 2022)
 - Ruby, Rails, JavaScript, CSS, HTML

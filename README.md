@@ -7,9 +7,9 @@ I am a dedicated and hardworking person, and I demonstrated these traits while t
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Bakery Manager ](https://github.com/dev-mhowells/bakery-manager)**   | Bakery management system allows customer to place order, and the admin could manage their order | MERN|
+| **[Bakery Manager ](https://github.com/dev-mhowells/bakery-manager)**   | Bakery management system allows customer to place order, and the admin could manage their order<br>   [Demo](https://www.youtube.com/watch?v=uqbOZXkIjIw)| MERN|
 | **[Bank_tech_test](https://github.com/yulingyou/Bank_tech_test_v2)**            | A simple project which printing account statement (date, amount, balance) with OO design and TDD skills | Reby, RSpec |
-| **[Flycat](https://github.com/flycatcat/flycat)**            | A website to do HR manegerment | Reby on Rails, JavaScript, HTML, CSS, SQL |
+| **[Flycat](https://github.com/flycatcat/flycat)**            | A website to do HR manegerment | Reby on Rails, JavaScript, HTML, CSS, PostgreSQL |
 
 
 
@@ -77,14 +77,17 @@ All of the skills I have gained whilst carrying out htis project, particulary te
 #### Makers Academy (Nov 2022 to Feb 2023)
 - Paring: Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - OOP, TDD, MVC, DDD
-- Agile/XP
+- Agile
 - Ruby, Sinatra, JavaScript
 - RSpec
 - MERN, Cypress
 - Tailwind CSS
 
 #### ASTRO Camp (Mar 2022 to June 2022)
-- Ruby, Rails, JavaScript, CSS, HTML
+- Ruby on Rails
+- JavaScript
+- CSS, HTML
+- PostgreSQL
 
 #### Fu Jen Catholic University (Sep 2006 to June 2010)
 

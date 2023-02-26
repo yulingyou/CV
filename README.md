@@ -41,7 +41,7 @@ _Retail Sales Specialist_
 - Skillfully served Mandarin-speaking customers, enhancing their shopping experience.
 - The frequent champion of sales ranking.
 
-**Dozo Japanese restaurent** (Sep 2017 to Aug 2019)
+**Dozo Japanese restaurent UK** (Sep 2017 to Aug 2019)
 _Server_ 
 - Welcomed and served guests with a professional, friendly demeanor
 - Prepared drinks according to customer preferences

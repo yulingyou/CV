@@ -34,6 +34,18 @@ _Insurance Sales_
 
 - Handled sales for customers who need help for getting coverage, managing their policy, or submitting a claim. 
 - Shortlisted for newcomer award of the first quarter in 2020, top 3 sales of the month in junior team three times in 2021.
+
+**Folli Follie Group UK** (Feb 2018 to Aug 2019)
+_Retail Sales Specialist_
+- Met and exceeded sales goals, contributing to a 10% increase in returning customers.
+- Skillfully served Mandarin-speaking customers, enhancing their shopping experience.
+- The frequent champion of sales ranking.
+
+**Dozo Japanese restaurent** (Sep 2017 to Aug 2019)
+_Server_ 
+- Welcomed and served guests with a professional, friendly demeanor
+- Prepared drinks according to customer preferences
+- Delivered outstanding customer service, creating memorable experiences for all guests
   
 ## Skills
 

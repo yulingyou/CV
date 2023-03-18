@@ -8,8 +8,8 @@ I am a dedicated and hardworking person, and I demonstrated these traits while t
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[Bakery Manager ](https://github.com/dev-mhowells/bakery-manager)**   | Bakery management system allows customer to place order, and the admin could manage their order<br>   [Demo](https://www.youtube.com/watch?v=uqbOZXkIjIw)| MERN ( MongoDB, Express, React, Node), Jest, Cypress|
-| **[Bank_tech_test](https://github.com/yulingyou/Bank_tech_test_v2)**            | A simple project which printing account statement (date, amount, balance) with OO design and TDD skills | Reby, RSpec |
-| **[Flycat](https://github.com/flycatcat/flycat)**            | A website to do HR manegerment [Website](https://flycat.works/) | Reby on Rails, JavaScript, HTML, CSS, PostgreSQL |
+| **[Bank_tech_test](https://github.com/yulingyou/Bank_tech_test_v2)**            | A simple project which printing account statement (date, amount, balance) with OO design and TDD skills | Ruby, RSpec |
+| **[Flycat](https://github.com/flycatcat/flycat)**            | A website to do HR manegerment [Website](https://flycat.works/) | Ruby on Rails, JavaScript, HTML, CSS, PostgreSQL |
 
 
 

@@ -88,7 +88,7 @@ All of the skills I have gained whilst carrying out htis project, particulary te
 
 #### Makers Academy (Nov 2022 to Feb 2023)
 - Paring: Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC, MVP
 - Agile
 - Ruby, Sinatra, JavaScript
 - RSpec

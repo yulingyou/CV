@@ -20,6 +20,7 @@ _Executive Assistant_
 
 - Course facilitating tasks.
 - Liaison with customers and tutors, arrange the slot for two side, maintain a good rate (over 85%) of course continuation.
+- Provided comprehensive training and guidance to newly hired teachers, ensuring their proficiency in effectively utilizing our teaching platform.
 - Office administrative tasks.
 
 **Macaron Box TW** (Dec 2020 to Mar 2022)  

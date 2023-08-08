@@ -72,12 +72,14 @@ I have demonstrated my strong communication skills, both verbal and written, thr
 - Evidence (STAR) -->
 
 #### Teamwork
-I am a team-player who can also work independently. During my time with the project 'flycat', I have work as a valuable team member, I was responsible for a variety of tasks including, creating the task timeline, scheduling and coordinating stand-up meeting, compile and distribute post-meeting reports. A great achievement was we managed to complete the project in five weeks, which was 1 weeks earlier than the estimated finish date.
+- I am a team player who can also work independently. During my time with the project 'flycat' in ASTRO camp, I acted as a SCRUM master which included creating the task timeline, scheduling and coordinating stand-up meetings, and compile and distribute post-meeting reports. A great achievement was we managed to complete the project in five weeks, which was 1 weeks earlier than the estimated completed date.
 
-All of the skills I have gained whilst carrying out htis project, particulary teamwork, organisation and time management, can be readily applied to any role.
+#### Pair programming
+- In Makers academy I frequently pair programmed with others to solve problems efficiently. I learned not only to work with others but how to navigate different resources e.g. official documentation and stackoverflow quickly.
 
-#### Additional skills
--Mandarin(native)
+#### Language skills
+- English (fluent)
+- Mandarin (native)
 <!-- Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
 
 - I achieved A during my work at B (job, or otherwise)
@@ -88,19 +90,14 @@ All of the skills I have gained whilst carrying out htis project, particulary te
 ## Education
 
 #### Makers Academy (Nov 2022 to Feb 2023)
-- Pairng: Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- OOP, TDD, MVC, MVP
-- Agile
-- Ruby, Sinatra, JavaScript
-- RSpec
-- MERN, Cypress
-- Tailwind CSS
-
 #### ASTRO Camp (Mar 2022 to June 2022)
-- Ruby on Rails
-- JavaScript
-- CSS, HTML
-- PostgreSQL
+- Vanilla: HTML, JavaScript, Ruby
+- Framwork: React, Ruby on Rails, Sinatra 
+- Styling: Bootstrap, CSS, Tailwind CSS, SASS
+- Databases: MongoDB, PostgreSQL
+- Testing: Cypress, Jest, RSpec
+- Methodoleges: OOP, TDD, MVC
+
 
 #### Fu Jen Catholic University (Sep 2006 to June 2010)
 
